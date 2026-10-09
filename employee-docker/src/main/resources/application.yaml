@@ -1,3 +1,7 @@
 spring:
   application:
     name: employee-docker
+
+server:
+  port: 8085
+
